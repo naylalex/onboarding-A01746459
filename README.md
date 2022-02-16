@@ -74,7 +74,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## PRACTICA EN CLASE 
 * Bash 
-*nevagacion file sistem de linux
+* navagacion file sistem de linux
 * notas de markdown 
 
 - [guia markdown](http://markdownguide.org/)
